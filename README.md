@@ -1,9 +1,9 @@
-## Gregor's Arduino Libraries
+# Gregor's Arduino Libraries
 
-### 1. Non stopable delay
-Library for delays (time intervals) that do not stop the main loop from executing.
+#### Library for Arduino to Arduino (ESP8266) hardware serial communication
+#### Library for delays (time intervals) that do not stop the main loop from executing
 
-
+For more details see: https://github.com/gkobetic/GregorsArduLibs
 
 
 You can contact me any time:
