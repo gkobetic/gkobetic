@@ -8,6 +8,7 @@ For more details see: https://github.com/gkobetic/GregorsArduLibs
 
 You can contact me any time:
 - gregor@notics.si
+- [LinkedIn](https://www.linkedin.com/in/gregor-kobeti%C4%8D/)
 - https://www.notics.si/
 
 Best regards!
