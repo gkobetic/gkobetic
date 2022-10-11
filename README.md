@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.youtube.com/watch?v=9Ow8ogeNdQA&t=32s](https://www.youtube.com/watch?v=9Ow8ogeNdQA&t=32s) -->
 
-- 💬 Ask me about **Arduino**
+- 💬 Ask me about **Arduino projects**
 
 - 📫 How to reach me **gregor@notics.si**
 
