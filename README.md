@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FastAPI web framework**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/watch?v=9Ow8ogeNdQA&t=32s](https://www.youtube.com/watch?v=9Ow8ogeNdQA&t=32s)
+<!-- - 👨‍💻 All of my projects are available at [https://www.youtube.com/watch?v=9Ow8ogeNdQA&t=32s](https://www.youtube.com/watch?v=9Ow8ogeNdQA&t=32s) -->
 
 - 💬 Ask me about **Arduino**
 
