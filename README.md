@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning **FastAPI web framework**
 
 - 👨‍💻 My last home projects are available at:
-    - [RC Lawn Mower](https://www.youtube.com/watch?v=9Ow8ogeNdQA&t=32s)
     - [Arduino to Arduino (ESP8266) serial communication library](https://github.com/gkobetic/GregorsArduLibs)
+    - [RC Lawn Mower](https://www.youtube.com/watch?v=9Ow8ogeNdQA&t=32s)
 
 - 💬 Ask me about **Arduino** and **Raspberry Pi** topics
 
