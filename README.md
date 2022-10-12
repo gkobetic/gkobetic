@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋, I'm Gregor</h1>
 <h3 align="left">A passionate software developer and electronics enthusiast from Slovenia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gkobetic&label=Profile%20views&color=0e75b6&style=flat" alt="gkobetic" /> </p>
-
+[![Hits](https://hits.sh/github.com/gkobetic.svg?label=Profile%20views)](https://hits.sh/github.com/gkobetic/)
 
 - 🔭 I’m currently working on developing REST API in Node.js and Android mobile application for [Notics](https://www.notics.si/)
 
