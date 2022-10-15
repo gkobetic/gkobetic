@@ -11,9 +11,9 @@
     - [Arduino to Arduino (ESP8266) serial communication library](https://github.com/gkobetic/GregorsArduLibs)
     - [RC Lawn Mower](https://www.youtube.com/watch?v=9Ow8ogeNdQA&t=32s)
 
-- 💬 Ask me about **Arduino** and **Raspberry Pi** topics
+- 💬 I am an enthusiast of the **Arduino** and **Raspberry Pi** platforms, on which I am developing a **home automation system**
 
-- 📫 How to reach me **gregor@notics.si**
+- 📫 Reach me on **gregor@notics.si**
 
 <br />
 
