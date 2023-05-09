@@ -9,7 +9,7 @@
 
 - 👨‍💻 My last home projects are available at:
     - [Arduino to Arduino (ESP8266) serial communication library](https://github.com/gkobetic/GregorsArduLibs)
-    - [RC Lawn Mower](https://www.youtube.com/watch?v=9Ow8ogeNdQA&t=32s)
+    - [RC Lawn Mower](https://youtu.be/RDOkZLwLRCs)
 
 - 💬 I am an enthusiast of the **Arduino** and **Raspberry Pi** platforms, on which I am developing a **home automation system**
 
