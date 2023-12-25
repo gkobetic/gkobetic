@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.sh/github.com/gkobetic.svg?label=Profile%20views)](https://hits.sh/github.com/gkobetic/)
 
-- 🔭 I’m currently working on developing REST API in Node.js and Android mobile application for [Notics](https://www.notics.si/)
+- 🔭 I’m currently working on developing REST API in Node.js and Android mobile application for Andon System (Automotive)
 
 - 🌱 I’m currently learning **FastAPI web framework**
 
@@ -13,7 +13,7 @@
 
 - 💬 I am an enthusiast of the **Arduino** and **Raspberry Pi** platforms, on which I am developing a **home automation system**
 
-- 📫 Reach me on **gregor@notics.si**
+- 📫 Reach me on **gkobetic@gmail.com**
 
 <br />
 
