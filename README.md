@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning **FastAPI web framework**
 
 - 👨‍💻 My last home projects are available at:
-    - [Arduino libraries: 
+    - [Arduino libraries: ](https://github.com/gkobetic/GregorsArduLibs)
         - Arduino to Arduino (or ESP8266) serial communication, 
         - Non stopable delay, 
-        - better map function](https://github.com/gkobetic/GregorsArduLibs)
+        - Better map function
     - [Remote Control Lawn Mower](https://www.youtube.com/channel/UCBWLMt8vJG6_8bZfRz194SA)
 
 - 💬 I am an enthusiast of the **Arduino** and **Raspberry Pi** platforms, on which I am developing a **home automation system**
