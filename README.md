@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋</h1>
+<h1 align="left">Hi! 👋</h1>
 
 [![Hits](https://hits.sh/github.com/gkobetic.svg?label=Profile%20views)](https://hits.sh/github.com/gkobetic/)
 
@@ -8,4 +8,6 @@
     - Better map function
 
 
+
+    - 
 - Reach me on **gkobetic@gmail.com**
