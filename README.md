@@ -7,6 +7,6 @@
     - Non stopable delay, 
     - Better map function
 
-</p>
+<br>
 
 - 📫 Reach me on **gkobetic@gmail.com**
